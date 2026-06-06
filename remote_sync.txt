@@ -1,0 +1,4 @@
+# CFT remote sync authorization
+# FORMAT: PRODUCT_ID|STATUS
+
+CFX-TEST-0000-0000|BLOCKED
